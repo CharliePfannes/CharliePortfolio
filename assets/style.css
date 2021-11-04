@@ -1,3 +1,14 @@
 body {
     background-color: grey
 }
+
+.name-content-div {
+    border: 2px solid white;
+    text-align: center;
+    margin-bottom: 125px;
+    color: darkred;
+}
+
+.name {
+    font-family: fantasy;
+}
